@@ -4,7 +4,7 @@ Since the late 2000s, crowdfunding platforms like Kickstarter and Indiegogo have
 
 ##1.	Given the provided data, what are three conclusions we can draw about crowdfunding campaigns?
 
-	Based on the provided data, the three conclusions that we can draw out about crowdfunding data is there was a very successful rate for funding in the theaters field. The profit rate was very high compared to the other industry. The journalism industry has a lowest successful rate compared to any other industry.
+Based on the provided data, the three conclusions that we can draw out about crowdfunding data is there was a very successful rate for funding in the theaters field. The profit rate was very high compared to the other industry. The journalism industry has a lowest successful rate compared to any other industry.
 
  ![Picture1](https://user-images.githubusercontent.com/116124181/231615776-d9e2429b-7997-4203-84aa-fc0939767159.png)
 
@@ -19,6 +19,6 @@ The dataset does not include most recent statistics for the current years, the l
 
 ## 3.	What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
  Other possible tables/graphs that could be used to create the following study are;
--	Success of categories by countries.
--	Analysis of funding success and length rate, while looking at the relationship between the crowdfunding goals.
+	- Success of categories by countries.
+	- Analysis of funding success and length rate, while looking at the relationship between the crowdfunding goals.
 
