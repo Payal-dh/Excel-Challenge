@@ -1,1 +1,3 @@
 # Excel-Challenge
+
+Since the late 2000s, crowdfunding platforms like Kickstarter and Indiegogo have experienced tremendous growth in popularity and success. Both independent and renowned content creators are utilizing crowdfunding to launch new products and generate excitement. However, not all projects achieve success as funding is contingent on meeting or exceeding an initial goal. Consequently, many organizations devote significant resources to examining past projects in search of strategies that lead to success. In this week's Challenge, you will be responsible for organizing and analyzing a database of 1,000 sample projects to uncover any concealed trends.
