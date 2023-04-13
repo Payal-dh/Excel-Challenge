@@ -2,7 +2,7 @@
 
 Since the late 2000s, crowdfunding platforms like Kickstarter and Indiegogo have experienced tremendous growth in popularity and success. Both independent and renowned content creators are utilizing crowdfunding to launch new products and generate excitement. However, not all projects achieve success as funding is contingent on meeting or exceeding an initial goal. Consequently, many organizations devote significant resources to examining past projects in search of strategies that lead to success. In this week's Challenge, you will be responsible for organizing and analyzing a database of 1,000 sample projects to uncover any concealed trends.
 
-##1.	Given the provided data, what are three conclusions we can draw about crowdfunding campaigns?
+## 1.	Given the provided data, what are three conclusions we can draw about crowdfunding campaigns?
 
 Based on the provided data, the three conclusions that we can draw out about crowdfunding data is there was a very successful rate for funding in the theaters field. The profit rate was very high compared to the other industry. The journalism industry has a lowest successful rate compared to any other industry.
 
